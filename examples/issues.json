@@ -1,0 +1,20 @@
+[
+  {
+    "number": 101,
+    "title": "Crash when importing CSV with empty rows",
+    "body": "The app throws an exception while importing a CSV file. Steps to reproduce are attached.",
+    "html_url": "https://github.com/example/repo/issues/101"
+  },
+  {
+    "number": 102,
+    "title": "README needs setup docs for API token",
+    "body": "New users do not know where to put the token.",
+    "html_url": "https://github.com/example/repo/issues/102"
+  },
+  {
+    "number": 103,
+    "title": "Add automation for weekly Excel report",
+    "body": "We need a bot that creates the report every Monday.",
+    "html_url": "https://github.com/example/repo/issues/103"
+  }
+]
