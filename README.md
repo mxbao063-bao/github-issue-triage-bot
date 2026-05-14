@@ -32,3 +32,19 @@ Client gets:
 - One small revision after review
 - Optional GitHub Actions workflow
 - Optional safe posting step after review
+
+## Custom Setup
+
+Need this adapted to your GitHub repo?
+
+I can customize this starter project for:
+
+- your labels and priority rules
+- issue summary and reply templates
+- GitHub API integration
+- GitHub Actions scheduled triage
+- safe draft-only or approved posting workflows
+
+Contact: `mxbao063@gmail.com` for a fixed-scope quote.
+
+More details: [`CUSTOMIZATION.md`](CUSTOMIZATION.md)
